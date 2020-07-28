@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-I'm a german based Developer, working primarily with **PHP** and **JavaScript**. Also created some Projects in **C#** and **Java**, but like to try everything new too. Did things with **Magento**, **TYPO3**, **Zend Framework**, **Laminas**, **Node.js** and a bit of **jQuery**. Realized some **Android** Projects, and did some machine programming on **Arduino**. Beside programming, I'm interested in Smart Home automatization and from time to tie i post something on [my website](https://daker.de).
+I'm a german based Developer, working primarily with **PHP** and **JavaScript**. Also created some Projects in **C#** and **Java**, but like to try everything new too. Did things with **Magento**, **TYPO3**, **Zend Framework**, **Laminas**, **Node.js** and a bit of **jQuery**. Realized some **Android** Projects, and did some machine programming on **Arduino**. Beside programming, I'm interested in Smart Home automatization and from time to tiem I post something on [my website](https://daker.de).
 
 If you like to see some of my Stuff, feel free to browse my [unorganized Repos](https://github.com/dkern?tab=repositories), or find a short overview below. :wink:
 
